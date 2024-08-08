@@ -1,4 +1,7 @@
-### Project 2 - Library Management System
+### Project 2 - Library Management System - PostgreSQL and Java
+
+## Overview
+This project involves creating a library management system using Java and PostgreSQL, focusing on database transaction processing and locking using JDBC.
 
 ## What I Did
 
@@ -32,7 +35,7 @@
 5. **Connected GUI**
    - Ensured that the `LibraryUI.java` interacts correctly with the methods in `LibraryModel.java`.
 
-## Demo
+## Demo Instructions
 
 To run the demo, follow these steps:
 
@@ -40,15 +43,15 @@ To run the demo, follow these steps:
 
 2. **Connect to the Remote System**
 
-   ```bash
-   plink -ssh -2 -X <username>@greta-pt.ecs.vuw.ac.nz
-   ```
+    ```bash
+    plink -ssh -2 -X <username>@greta-pt.ecs.vuw.ac.nz
+    ```
 
 3. **Run the Application**
 
-   ```bash
-   env CLASSPATH=/usr/pkg/lib/java/postgresql_jdbc.jar:. java LibraryUI
-   ```
+    ```bash
+    env CLASSPATH=/usr/pkg/lib/java/postgresql_jdbc.jar:. java LibraryUI
+    ```
 
-This will start the application and you can interact with the library system remotely.
+This will start the application, and you can interact with the library system remotely.
 
