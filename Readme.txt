@@ -1,4 +1,4 @@
-### Project 2 - Library Management System - PostgreSQL and Java
+Project 2 - Library Management System - PostgreSQL and Java
 
 ## Overview
 This project involves creating a library management system using Java and PostgreSQL, focusing on database transaction processing and locking using JDBC.
