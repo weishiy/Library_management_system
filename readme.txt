@@ -1,4 +1,4 @@
-# Project 2 - Library Management System
+### Project 2 - Library Management System
 
 ## What I Did
 
