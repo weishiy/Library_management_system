@@ -1,7 +1,7 @@
 # Library Management System
 
 ## Overview
-This project is a Java-based Library Management System using PostgreSQL. It focuses on database transactions and locking with JDBC. From course SWEN304.
+This project is a Java-based Library Management System using PostgreSQL. It focuses on database transactions and locking with JDBC.
 
 ## Features
 - **Book Management**: Lookup, borrow, and return books.
